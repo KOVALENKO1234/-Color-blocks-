@@ -1,3 +1,0 @@
-const blocks = document.querySelectorAll('.block');
-
-blocks.forEach((block) =>
